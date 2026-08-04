@@ -1,4 +1,4 @@
-# Day 3 AI Agent
+# AI Agent
 
 A small Node.js-based AI agent that uses the Gemini API to interpret a user request and perform actions inside the local workspace. The agent can inspect files, read and write content, search the web, and execute approved shell commands.
 
